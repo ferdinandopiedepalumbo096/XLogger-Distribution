@@ -23,8 +23,8 @@ let package = Package(
         /// The binary target pointing directly to the pre-compiled XCFramework.
         .binaryTarget(
             name: "XLogger",
-            url: "https://github.com/ferdinandopiedepalumbo096/XLogger-Distribution/releases/download/1.0.1/XLogger.xcframework.zip",
-            checksum: "848006ee80f5bef6922dbf84a5dcf71ab6a524e169a89b808e7cf67b1650efdd"
+            url: "https://github.com/ferdinandopiedepalumbo096/XLogger-Distribution/releases/download/1.0.2/XLogger.xcframework.zip",
+            checksum: "9ed22e193c576c876c14613f4798341cba041847ac723ad4fedd1ec35cbf4c40"
         )
     ]
 )
