@@ -5,7 +5,7 @@ import PackageDescription
 
 /// The official Swift Package manifesto for distributing the compiled XLogger Enterprise framework.
 let package = Package(
-    name: "XLogger",
+    name: "XLogger-Distribution",
     platforms: [
         .iOS(.v15),
         .macOS(.v12)
